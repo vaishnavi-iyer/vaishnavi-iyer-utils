@@ -1,0 +1,28 @@
+{
+  "name": "vaishnavi-iyer-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnavi-iyer/vaishnavi-iyer-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishnavi-iyer/vaishnavi-iyer-utils/issues"
+  },
+  "homepage": "https://github.com/vaishnavi-iyer/vaishnavi-iyer-utils#readme",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "js-object-pretty-print": "^0.2.0",
+    "node-emoji": "^1.3.0"
+  }
+}
